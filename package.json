@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "llama-api-client": "^0.1.0"
+  }
+}
