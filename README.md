@@ -1,2 +1,3 @@
 # llama-api
-Preview (Waitlist)
+
+- <https://llama.developer.meta.com/docs/overview>

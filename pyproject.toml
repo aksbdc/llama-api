@@ -1,7 +1,7 @@
 [project]
 name = "llama-api"
-version = "0.1.0"
-description = "Add your description here"
+version = "2025.04.30"
+description = "Alaska Small Business Development Center"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
