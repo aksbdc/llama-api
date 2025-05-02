@@ -1,5 +1,30 @@
 {
   "dependencies": {
-    "llama-api-client": "^0.1.0"
+    "dotenv": "^16.5.0",
+    "llama-api-client": "^0.1.0",
+    "typescript": "^5.8.3"
+  },
+  "name": "llama-api",
+  "description": "Alaska Small Business Development Center",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aksbdc/llama-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aksbdc/llama-api/issues"
+  },
+  "homepage": "https://github.com/aksbdc/llama-api#readme",
+  "devDependencies": {
+    "@types/node": "^22.15.3"
   }
 }
